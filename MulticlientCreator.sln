@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticlientCreator", "src\MulticlientCreator\MulticlientCreator.csproj", "{CEFEC95B-E3D3-4855-9F5A-3CB66D36972D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MulticlientCreator", "src\MulticlientCreator\MulticlientCreator.csproj", "{E440EEC7-846D-4EBA-BEA7-73F9836E93F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CEFEC95B-E3D3-4855-9F5A-3CB66D36972D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CEFEC95B-E3D3-4855-9F5A-3CB66D36972D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CEFEC95B-E3D3-4855-9F5A-3CB66D36972D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CEFEC95B-E3D3-4855-9F5A-3CB66D36972D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E440EEC7-846D-4EBA-BEA7-73F9836E93F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E440EEC7-846D-4EBA-BEA7-73F9836E93F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E440EEC7-846D-4EBA-BEA7-73F9836E93F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E440EEC7-846D-4EBA-BEA7-73F9836E93F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
